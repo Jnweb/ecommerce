@@ -1,5 +1,5 @@
 {
-    "name": "Jnweb/ecommerce",
+    "name": "jnwebsi/ecommerce",
     "authors": [
         {
             "name": "Jnweb",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\jnweb\\php-classes\\src"
+            "": "vendor\\jnwebsi\\php-classes\\src"
         }
     }
 }
